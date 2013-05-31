@@ -1,0 +1,6 @@
+[submodule "dojo"]
+	path = dojo
+	url = git@github.com:dojo/dojo.git
+[submodule "put-selector"]
+	path = put-selector
+	url = git@github.com:kriszyp/put-selector.git
